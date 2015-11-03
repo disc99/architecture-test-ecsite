@@ -1,18 +1,18 @@
 # Architecture Test for EC Site
 
-## App:shopping-mall
+## shopping-mall application
 - ユーザ登録
 - 商品検索
 - 商品購入
 
-## App:shop-management
+## shop-management application
 - ショップ情報登録
 - ショップ情報更新
 - 商品登録
 - 商品更新
 - 商品検索
 
-## App:maintenance
+## maintenance application
 - ショップ登録
 - ショップ情報更新
 - ショップ検索
